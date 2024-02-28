@@ -1,12 +1,12 @@
-<h2 align="left">👋 Hey there, fellow wanderer of the digital realm! I'm @Deekshagj 🌍✨
-
+<h5 align="left">👋 Hey there, fellow wanderer of the digital realm! I'm @Deekshagj 🌍✨
+<br>
 Welcome to my GitHub profile, a little corner of the internet where bits and bytes come together to form something extraordinary. 🖥️🎨
-
-Who am I, you ask? Well, I'm just a curious soul on a quest for knowledge, constantly tinkering with code and dreaming up new worlds through the power of technology. 🧠💡
-👀 I’m interested in Artificial intelligence and Cyber security.
-🌱 I’m currently learning coding using different languages.
-💞 I’m looking to collaborate on projects involving a learning curve.
-</h2>
+<br>
+Who am I, you ask? Well, I'm just a curious soul on a quest for knowledge, constantly tinkering with code and dreaming up new worlds through the power of technology. 🧠💡<br>
+👀 I’m interested in Artificial intelligence and Cyber security.<br>
+🌱 I’m currently learning coding using different languages.<br>
+💞 I’m looking to collaborate on projects involving a learning curve.<br>
+</h5>
 
 ###
 
